@@ -1,0 +1,45 @@
+/* Adjustments in AdminCategory.css */
+
+/* Center align the form container */
+.form-container {
+    margin: 0 auto;
+}
+
+/* Increase padding and change background color for the form submit button */
+.form-container button[type="submit"] {
+    padding: 12px 18px;
+    background-color: #3498db;
+    margin-top: 15px; /* Add margin to the top */
+}
+
+/* Increase padding for login container */
+.login {
+    padding: 40px;
+}
+
+/* Change background color for register container */
+.register-container {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin: 50px auto; /* Center the register container */
+}
+
+/* Adjust font size and padding for register button */
+.register-btn {
+    font-size: 16px;
+    padding: 12px 20px;
+}
+
+/* Hover color for register button */
+.register-btn:hover {
+    background-color: #8ac5f1;
+}
+
+/* AdminHome.css */
+
+/* Center align admin home content */
+.admin-home-content {
+    margin: 0 auto;
+    padding: 25px;
+    margin-top: 30px;
+}
